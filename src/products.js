@@ -8,6 +8,7 @@ import product7 from './assets/7.webp';
 import product8 from './assets/8.webp';
 import product9 from './assets/9.jpg';
 import product10 from './assets/10.jpg';
+import product11 from './assets/11.jpeg';
 
 
 // data of all products that i create statically
@@ -84,6 +85,13 @@ export const PRODUCTS =
         productName: "bag",
         price: 19.0,
         productImage: product10,
+
+    },
+    {
+        id:11,
+        productName: "team",
+        price: 599.0,
+        productImage: product11,
 
     }
 

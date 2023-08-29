@@ -13,6 +13,26 @@
   }
 }
 
+.main-Logo{
+  border: 1px solid rgb(252, 252, 252);
+  border-radius: 15px;
+  padding: 4px;
+  max-width: 10%;
+  display: flex;
+  justify-content: left;
+  margin-left: 10%;
+}
+
+.navbar-item{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+
+}
+
+
+
+
 .card{
   border: 3px solid rgb(213, 143, 24);
   background-color: rgb(255, 255, 255);
