@@ -13,6 +13,12 @@
   }
 }
 
+.userprofile{
+  border: 2px solid rgb(0, 0, 0);
+  width: 12%;
+  border-radius: 30px;
+}
+
 .main-Logo{
   border: 1px solid rgb(252, 252, 252);
   border-radius: 15px;
