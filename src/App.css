@@ -13,13 +13,13 @@
   }
 }
 
-.userprofile{
+.userprofile {
   border: 2px solid rgb(0, 0, 0);
   width: 12%;
   border-radius: 30px;
 }
 
-.main-Logo{
+.main-Logo {
   border: 1px solid rgb(252, 252, 252);
   border-radius: 15px;
   padding: 4px;
@@ -29,33 +29,27 @@
   margin-left: 10%;
 }
 
-.navbar-item{
+.navbar-item {
   display: flex;
   justify-content: left;
   align-items: center;
-
 }
 
-
-
-
-.card{
+.card {
   border: 3px solid rgb(213, 143, 24);
   background-color: rgb(255, 255, 255);
   border-radius: 40px;
   width: 95%;
-  max-height:95%;
-box-sizing: border-box;
-box-shadow: 0 14px 28px rgba(0,0,0,0.15), 0 10px 10px rgba(0, 0, 0,0.11);
-  
+  max-height: 95%;
+  box-sizing: border-box;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.11);
 }
 
-.card img{
+.card img {
   padding: 5px;
   width: 100%;
   height: 300px;
   object-fit: contain;
-  
 }
 .App-header {
   background-color: #282c34;
